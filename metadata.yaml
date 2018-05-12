@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/492
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24988#Amaury
 gutenberg_issued: '2008-04-04'
 gutenberg_type: Text
 identifiers:
