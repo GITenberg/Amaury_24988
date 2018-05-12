@@ -1,0 +1,36 @@
+_repo: Amaury_24988
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Yarza, Florencio S. de
+    gutenberg_agent_id: '26863'
+    url: http://www.gutenberg.org/2009/agents/26863
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas père, Alexandre
+    - Dumas, Alexander
+    - Dumas, Alexandre, pere
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_issued: '2008-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24988'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Tuberculosis -- Fiction'
+title: Amaury
+url: http://www.gutenberg.org/ebooks/24988
